@@ -1,2 +1,13 @@
-# pkmnunite-assets
- 
+# Pokemon UNITE Assets
+
+## Folder Structure
+### Images
+
+All 2D images of all assets that we mine are located here. Assets are organized based on category such as `Pokemon`, `Items`, `Backgrounds`, etc.
+
+### 3D Assets
+
+All 3D models and their textures (if present) of all assets that we mine are located here. Assets are organized based on category such as `Pokemon`, `Avatar`, etc.
+
+## Disclaimer
+This repo is for educational use only. All content found within this repo is the property of The Pokemon Company, Timi and Tencent. Please respect the original source material.
