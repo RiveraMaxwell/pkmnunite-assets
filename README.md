@@ -1,7 +1,7 @@
 # Pokemon UNITE Assets
 
 ## Folder Structure
-### Images
+### 2D Assets
 
 All 2D images of all assets that we mine are located here. Assets are organized based on category such as `Pokemon`, `Items`, `Backgrounds`, etc.
 
