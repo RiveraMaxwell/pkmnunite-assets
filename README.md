@@ -1,5 +1,5 @@
 # Pokemon UNITE Assets
-![alt text](https://github.com/ElChicoEevee/pkmnunite-assets/blob/main/2D%20Assets/CDN/ShareGet/PokemonGet/B02_1006070003_8517eb698f4bbab9.png?raw=true)
+![alt text](https://github.com/ElChicoEevee/pkmnunite-assets/blob/main/readme.png?raw=true)
 ## Folder Structure
 ### 2D Assets
 
